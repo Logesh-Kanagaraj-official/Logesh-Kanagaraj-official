@@ -67,12 +67,49 @@ developer = {
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🌐 [**mern_stack**](https://github.com/Logesh-Kanagaraj-official/mern_stack) | Full-Stack MERN — 20 modules & 27 projects from HTML to React, Node.js, Express, MongoDB & Redux | `MongoDB` `Express` `React` `Node.js` |
-| 📚 [**dev_docs**](https://github.com/Logesh-Kanagaraj-official/dev_docs) | Complete Tech Stacks Roadmap — practical code examples from basics to advanced levels | `JavaScript` `Markdown` |
-| 🐍 [**python-docs**](https://github.com/Logesh-Kanagaraj-official/python-docs) | 15-module Python Mastery — interview-ready docs covering fundamentals to advanced internals, CPython, GIL, asyncio | `Python` `Markdown` |
-| 🐍 [**python-learnings**](https://github.com/Logesh-Kanagaraj-official/python-beginner-guide) | Complete python beginner roadmap — practical code examples from basics to advanced levels | `Python` `Markdown` |
+<table>
+  <thead>
+    <tr>
+      <th width="25%">Project</th>
+      <th width="50%">Description</th>
+      <th width="25%">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🌐 <a href="https://github.com/Logesh-Kanagaraj-official/mern_stack"><b>mern_stack</b></a></td>
+      <td align="left">
+        Full-Stack MERN — 20 modules & 27 projects <br/>
+        Covers HTML → React → Node.js → Express → MongoDB + Redux
+      </td>
+      <td><code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code></td>
+    </tr>
+    <tr>
+      <td>📚 <a href="https://github.com/Logesh-Kanagaraj-official/dev_docs"><b>dev_docs</b></a></td>
+      <td align="left">
+        Complete Tech Stack Roadmap with structured learning path <br/>
+        Includes practical examples from basics → advanced
+      </td>
+      <td><code>JavaScript</code> <code>Markdown</code></td>
+    </tr>
+    <tr>
+      <td>🐍 <a href="https://github.com/Logesh-Kanagaraj-official/python-docs"><b>python-docs</b></a></td>
+      <td align="left">
+        15-module Python mastery <br/>
+        Covers internals (CPython, GIL, asyncio) + interview prep
+      </td>
+      <td><code>Python</code> <code>Markdown</code></td>
+    </tr>
+    <tr>
+      <td>🐍 <a href="https://github.com/Logesh-Kanagaraj-official/python-beginner-guide"><b>python-learnings</b></a></td>
+      <td align="left">
+        Beginner → advanced Python roadmap <br/>
+        Hands-on examples and structured progression
+      </td>
+      <td><code>Python</code> <code>Markdown</code></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
