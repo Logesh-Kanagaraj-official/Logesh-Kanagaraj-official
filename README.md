@@ -12,7 +12,7 @@
   <br/>
 
 <!-- Typing SVG Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Logesh+Kanagaraj+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%9A%80;Javascript+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+MongoDB;Building+Real-World+Production+Apps+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+Developer+%F0%9F%9A%80;Javascript+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+MongoDB;Building+Real-World+Production+Apps+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
