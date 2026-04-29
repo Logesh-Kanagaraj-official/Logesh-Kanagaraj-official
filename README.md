@@ -73,6 +73,7 @@ developer = {
 | 🐍 [**python-docs**](https://github.com/Logesh-Kanagaraj-official/python-docs) | 15-module Python Mastery — interview-ready docs covering fundamentals to advanced internals, CPython, GIL, asyncio | `Python` `Markdown` |
 | 🌐 [**mern_stack**](https://github.com/Logesh-Kanagaraj-official/mern_stack) | Full-Stack MERN — 20 modules & 27 projects from HTML to React, Node.js, Express, MongoDB & Redux | `MongoDB` `Express` `React` `Node.js` |
 | 📚 [**dev_docs**](https://github.com/Logesh-Kanagaraj-official/dev_docs) | Complete Tech Stacks Roadmap — practical code examples from basics to advanced levels | `JavaScript` `Markdown` |
+| 📚 [**python_beginner_Guide**](https://github.com/Logesh-Kanagaraj-official/python-beginner-guide) | Complete Python Beginner Guide — practical code examples from basics to advanced levels | `Python` `Markdown` |
 
 </div>
 
