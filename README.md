@@ -74,6 +74,22 @@ developer = {
 
 ---
 
+## 🌟 Highlight Project
+
+### 🛒 Threaded Dreams — E-Commerce Platform
+
+🔗 Live Demo: https://threadeddreams.netlify.app/
+
+A full-stack MERN e-commerce application built with a focus on real-world shopping experience, scalable architecture, and modern UI.
+
+**Key Features:**
+- 🛍️ Product browsing & dynamic listings
+- 🔐 User authentication & secure flows
+- 🛒 Cart management system
+- ⚡ Responsive and optimized UI
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
