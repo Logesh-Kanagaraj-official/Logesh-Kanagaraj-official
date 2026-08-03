@@ -30,12 +30,12 @@
 ```python
 developer = {
     "name":       "Logesh Kanagaraj",
-    "role":       "Full-Stack MERN Developer",
-    "company":    "Mitrahsoft",
+    "role":       "Full-Stack Developer",
+    "company":    "Mitrahsoft Solutions",
     "location":   "Tamil Nadu, India 🇮🇳",
-    "stack":      ["React", "Node.js", "Express.js", "MongoDB", "Python"],
+    "stack":      ["JavaScript", "React", "Python", "FastAPI"],
     "currently":  "Building production-grade full-stack web applications",
-    "learning":   ["TypeScript", "Next.js", "Flask", "Django"],
+    "learning":   ["TypeScript", "Next.js"],
     "goal":       "2–4 year level full-stack mastery",
     "fun_fact":   "I document everything — even Python internals 📚",
 }
@@ -54,11 +54,9 @@ developer = {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -196,7 +194,7 @@ $ git push --goal "Senior Full-Stack Engineer"
 
 ### 💬 *"Slow and Steady — Building Real Depth, Not Just Syntax"*
 
-*— Logesh Kanagaraj, Full-Stack MERN Developer*
+*— Logesh Kanagaraj, Full-Stack Developer*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FBE&height=120&section=footer&animation=fadeIn" />
 
